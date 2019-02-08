@@ -1,0 +1,6 @@
+/Users/blakefreeman/Projects/Day1/Day1/bin/Debug/Day1.exe
+/Users/blakefreeman/Projects/Day1/Day1/bin/Debug/Day1.pdb
+/Users/blakefreeman/Projects/Day1/Day1/obj/x86/Debug/Day1.csprojAssemblyReference.cache
+/Users/blakefreeman/Projects/Day1/Day1/obj/x86/Debug/Day1.csproj.CoreCompileInputs.cache
+/Users/blakefreeman/Projects/Day1/Day1/obj/x86/Debug/Day1.exe
+/Users/blakefreeman/Projects/Day1/Day1/obj/x86/Debug/Day1.pdb
